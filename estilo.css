@@ -1,0 +1,149 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+h2{
+	color: #fff;
+    margin-left: 35px;
+
+}
+
+	
+li{
+	border:1px solid blue;
+	font-family: Arial, sans-serif;
+    text-shadow: 0.1em 0.1em 0.05em #fff;
+    padding-right: 10px;
+}
+
+
+p{
+
+
+padding-top: 10px;
+
+padding:5px;
+color:#fff;
+
+clear: right;
+
+border:2px solid black;
+font-family: Arial, sans-serif;
+text-shadow: 0.1em 0.1em 0.05em #333;
+border-radius: 20px;
+
+}
+
+.fundodiv{
+	background: #fff;
+	
+	width: 90%;	
+	float: left;
+   padding-left: 35px;
+   padding-top: 10px;
+   padding-right: 10px
+	margin-left: 35px;
+	margin-top: 10px;
+	margin-right: 20px;
+	
+}
+
+img{
+	width: 80%;
+	box-shadow: 10px 10px 3px #000;
+	margin:30px 30px 30px 30px;
+	
+
+}
+
+.letra{
+	color: #F8DB0F;
+}
+
+#bloco{
+	width: 100%;
+	padding-top: 100px;
+	float: left;
+	margin-bottom: 15px
+	
+}
+
+#fundo{
+	background:gray;
+
+   
+}
+
+#cabecalho{
+	background: #37DBFE;	 
+	border-bottom: 1px solid #d8d8d8; /*largura e cor Borda*/
+	height: 100px;  /*altura da Borda*/
+    position: fixed;
+    width: 100%;
+    top:0;
+    border-radius: 10px; 
+
+}
+
+
+
+
+
+#menu{
+	
+	float: right;
+	padding: 5px 0;
+	font-size: 20px;
+
+}
+
+#logo{
+	width: 100px;
+	float: left;     
+    box-shadow:10px 10px 3px #000;     
+    margin: 10px;
+    border-radius:50px;
+    padding: 0;
+
+}
+
+
+
+
+
+a{
+	text-decoration:none; 
+	padding: 5px 10PX; /*formatacao texto*/WA
+
+}
+
+/*Links não visitados*/
+
+a:link{
+	color: black;
+}
+
+/*Links vistados*/
+
+a:visited{
+	color: black;
+}
+
+/*Links hover*/ /*aparecer uma cor quando passa mouse*/
+a:hover{
+	color: #ffff;
+	background: #b9c941;
+}
+
+/*Links active*/
+
+a:active{
+	color: #535353;
+}
+
+
+
+
+
+
